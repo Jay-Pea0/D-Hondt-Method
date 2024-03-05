@@ -1,5 +1,5 @@
 # D-Hondt-Method
-CMP1903M Object Oriented Programming (Assessment 1)
+CMP1903M Object Oriented Programming (Assessment 1), Achieved 100%
 
 Originally created 2021
 

@@ -1,6 +1,8 @@
 # D-Hondt-Method
 CMP1903M Object Oriented Programming (Assessment 1)
 
+Originally created 2021
+
 This is the first assessment for the Object Oriented Programming module. Our task is to implement the D'Hondt method of proportional representaion using C#. 
 Parties participating in this voting system list their top candidates in order so if the party wins a seat their first choice will be given the seat.
 The party with the most votes wins a seat and then their vote is divided by one plus the number of seats they have. So if a party has one seat their total vote is divided by two.
